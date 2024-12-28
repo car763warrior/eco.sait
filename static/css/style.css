@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Badeen+Display&display=swap');
+
+
+body{
+    background-image: url('../images/poteplenie.jpg');
+    background-size: cover;
+}
+
+h1{
+    font-size: 75px;
+    font-family: "Amatic SC", serif;
+}
+
+p{
+    font-size: 20px;
+    font-family: "Amatic SC", serif;   
+}
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+}
+
+.otstup{
+    margin: 45px;
+}
